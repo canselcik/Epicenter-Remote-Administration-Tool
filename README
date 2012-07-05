@@ -12,3 +12,7 @@ reverse connection and is fully undetected by anti-virus software.
 The client doesn't have to be compiled for every target computer since it
 uses the end-of-file data to initialize some of it's customizable variables
 such as the reverse connection interval and IP.
+
+I am putting it on GitHub so that people who are interested in concepts
+like reverse connection or file transfer can look at the code for reference.
+However, since this was a personal project, it may lack some useful commenting.
